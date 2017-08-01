@@ -34,7 +34,7 @@
 					</div>
 
 					<div class="form-group">
-						<label class="form-control">Alamat</label>
+						<label class="control-label">Alamat</label>
 						<textarea class="form-control" rows="10" name="e" readonly="">{{$ortu->alamat}}</textarea>
 					</div>
 
